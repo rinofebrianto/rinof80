@@ -3,12 +3,12 @@ date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("purple"," ===========================\n");
 echo color("yellow","| Claim Voucher Gojek|\n");
-echo color("red","| Auto create Gojek X Redeem voucher gofoood |\n");
-echo color("green","| github: Deni Irawan S T |\n");
-echo color("blue","| fanspage :ganteng dan manis|\n");
-echo color("yellow","| Creator : deniirawan2502.com          |\n");
-echo "| Kata sambutan : semoga vouchernya keluar dan deni irawan diterima kerja di tempat yang lebih baik      |\n";
-echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
+echo color("red","| Script Terbuat Dari Rasa Sakit Hati Hehe!! Cokk!!|\n");
+echo color("green","| Rino Febrianto|\n");
+echo color("blue","| IG : @mon_yk_|\n");
+echo color("yellow","| Creator : RINO FEBRIANTO          |\n");
+echo "| Pesenku Siji, Lak Wes Enak Ojo Lali Konco, Mene Tak Gawekno Script Maneh|\n";
+echo "| Rungkut    :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo " ===========================\n";
 
 // function change(){
